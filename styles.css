@@ -2,15 +2,21 @@
     text-decoration: none;
 }
 
-.navbar{
-    background-color: white; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; padding-left: 15px; padding-right: 15px;
+
+.navbar {
+    background-color: #1e1f27; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    padding-left: 15px; 
+    padding-right: 15px;
 }
 
-.navdiv{
-    display: flex; align-items: center; justify-content: space-between;
+.navdiv {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
 }
 
 
-.logo{
-    
+.logo { 
+    color: white;
 }
